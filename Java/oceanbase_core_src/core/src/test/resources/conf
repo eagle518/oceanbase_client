@@ -1,0 +1,10 @@
+dataId=alipay_junbian                                                                                                                                                         
+clusterAddress=10.209.144.30:2828
+coreJarVersion=1.1.0
+enableUpdate=false
+coreJarPath=http://obconsole.test.alibaba-inc.com//jarrepo/get?version=
+percentage=0
+whiteList=
+username=admin
+password=73cad637e0e8b6e9
+MD5=7540459a96d70d7b75dbc49a91c761cb
