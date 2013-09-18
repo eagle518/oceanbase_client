@@ -49,7 +49,7 @@ Oceanbase内置了对SQL的支持，用户可以通过libmysql，JDBC等方式�
   </tr>
   <tr>
     <td width="9%"><div align="center">4</div></td>
-    <td width="29%"><a href="https://github.com/alibaba/oceanbase/wiki/OceanBase%E5%AE%A2%E6%88%B7%E7%AB%AF-%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97" target="_blank">《OceanBase 客户端 用户指南》</a></td>
+    <td width="29%"><a href="https://github.com/alibaba/oceanbase/wiki/OceanBase-%E5%AE%A2%E6%88%B7%E7%AB%AF-%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97" target="_blank">《OceanBase 客户端 用户指南》</a></td>
     <td width="55%">该文档主要介绍OceanBase数据库的Java客户端和C客户端的使用方法。</td>
     <td width="7%"><a href="https://raw.github.com/alibaba/oceanbase/oceanbase_0.4/doc/wiki/OceanBase 描述.pdf"></a><a href="https://raw.github.com/alibaba/oceanbase/oceanbase_0.4/doc/wiki/OceanBase 客户端 用户指南.pdf">下载</a></td>
   </tr>
