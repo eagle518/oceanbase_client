@@ -53,14 +53,21 @@ Oceanbase内置了对SQL的支持，用户可以通过libmysql，JDBC等方式�
     <td width="55%">该文档主要介绍OceanBase数据库的Java客户端和C客户端的使用方法。</td>
     <td width="7%"><a href="https://raw.github.com/alibaba/oceanbase/oceanbase_0.4/doc/wiki/OceanBase 描述.pdf"></a><a href="https://raw.github.com/alibaba/oceanbase/oceanbase_0.4/doc/wiki/OceanBase 客户端 用户指南.pdf">下载</a></td>
   </tr>
+    <tr>
+    <td><div align="center">5</div></td>
+    <td><a href="https://github.com/alibaba/oceanbase/wiki/OceanBase-%E5%AE%A2%E6%88%B7%E7%AB%AF-%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97%EF%BC%88%E9%98%BF%E9%87%8C%E5%86%85%E9%83%A8%EF%BC%89" target="_blank">《OceanBase 客户端 用户指南（阿里内部）》</a></td>
+    <td><p>该文档主要介绍OceanBase Java客户端和OceanBase C客户端的使用方法。与《OceanBase 客户端 用户指南》相比，本文档增加了OceanBase配置中心和OceanBase Java客户端中的阿里内部模块“oceanbase.jar”的介绍。</p>
+    </td>
+    <td>暂无</td>
+  </tr>
   <tr>
-    <td width="9%"><div align="center">5</div></td>
+    <td width="9%"><div align="center">6</div></td>
     <td width="29%"><a href="https://github.com/alibaba/oceanbase/wiki/OceanBase-SQL-%E5%8F%82%E8%80%83%E6%8C%87%E5%8D%97" target="_blank">《OceanBase SQL 参考指南》</a></td>
     <td width="55%">该文档主要介绍OceanBase数据库支持的SQL语言、语法规则和使用方法等。</td>
     <td width="7%"><a href="https://raw.github.com/alibaba/oceanbase/oceanbase_0.4/doc/wiki/OceanBase 描述.pdf"></a><a href="https://raw.github.com/alibaba/oceanbase/oceanbase_0.4/doc/wiki/OceanBase%20SQL%20%E5%8F%82%E8%80%83%E6%8C%87%E5%8D%97.pdf">下载</a></td>
   </tr>
   <tr>
-    <td width="9%"><div align="center">6</div></td>
+    <td width="9%"><div align="center">7</div></td>
     <td width="29%"><a href="https://github.com/alibaba/oceanbase/wiki/OceanBase-%E5%8F%82%E8%80%83%E6%8C%87%E5%8D%97" target="_blank">《OceanBase 参考指南》</a></td>
     <td width="55%">该文档主要介绍OceanBase的日志参考、系统结果码和术语等信息。</td>
     <td width="7%"><a href="https://raw.github.com/alibaba/oceanbase/oceanbase_0.4/doc/wiki/OceanBase 描述.pdf"></a><a href="https://raw.github.com/alibaba/oceanbase/oceanbase_0.4/doc/wiki/OceanBase 参考指南.pdf">下载</a></td>
